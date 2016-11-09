@@ -1,5 +1,5 @@
 /*
- * ftp_upload.c
+ * uncompress.c
  *
  *  Created on: 10.19.2016
  *      Author: nagexiucai
@@ -7,11 +7,11 @@
 
 #include "../build.h"
 
-#if SAMPLES_FTP_UPLOAD
+#if SAMPLES_UNCOMPRESS
 
 int main(void)
 {
-	printf("#####SAMPLES FTP UPLOAD#####");
+	printf("#####SAMPLES UNCOMPRESS#####");
 	return 0;
 }
 
